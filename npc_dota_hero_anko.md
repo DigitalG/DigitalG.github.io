@@ -13,6 +13,7 @@ Vision: 1800 | 800
 ## Abilities
 ### <b><font color='#00B730'>Summoning: Giant Snake</font></b>
 <b><font color='#00B730'>Sends out a snake</font></b> grabbing the first enemy it encounters, dealing <b><font color='#00B730'>Pure Damage and pulling</font></b> them to Anko. <br><br> <b><font color='#00B730'>Deals Triple Damage</font></b> to creeps.
+
 |Behaviour|Damage Type|
 |---|---|
 |Point Target|Pure|
@@ -21,6 +22,7 @@ DAMAGE: 150/220/290/360
 CREEP DAMAGE:300%
 ### <b><font color='#78D590'>Cobra Strike</font></b>
 Deals<b><font color='#78D590'> Magic Damage</font></b> and <b><font color='#78D590'>reduces the Movement Speed</font></b> of a target enemy unit for a short duration. <br><br> <b><font color='#78D590'>The enemy is Silenced</font></b> for the duration of the effect.
+
 |Behaviour|Damage Type|Target Team|Target Unit|
 |---|---|---|---|
 |Unit Target|Magical|Enemies|Heroes/Basic|
