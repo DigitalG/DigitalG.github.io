@@ -15,9 +15,7 @@ Vision: 1800 | 800
 <b><font color='#00B730'>Sends out a snake</font></b> grabbing the first enemy it encounters, dealing <b><font color='#00B730'>Pure Damage and pulling</font></b> them to Anko. <br><br> <b><font color='#00B730'>Deals Triple Damage</font></b> to creeps.
 
 |Behaviour|Damage Type|
-
 |---|---|
-
 |Point Target|Pure|
 
 RANGE: 1300
@@ -29,6 +27,7 @@ Deals<b><font color='#78D590'> Magic Damage</font></b> and <b><font color='#78D5
 |Behaviour|Damage Type|Target Team|Target Unit|
 |---|---|---|---|
 |Unit Target|Magical|Enemies|Heroes/Basic|
+
 DAMAGE PER SECOND : 25/45/65/85
 MOVEMENT SPEED SLOW: -20/-30/-40/-50%
 DURATION: 3
@@ -37,6 +36,7 @@ DURATION: 3
 |Behaviour|Damage Type|Target Team|Target Unit|
 |---|---|---|---|
 |No Target|Magical|Enemies|Heroes|
+
 DAMAGE: 40/50/60/70
 BONUS DAMAGE: 10/12/14/16
 SNAKE INTERVAL: 1
@@ -45,6 +45,7 @@ DURATION: 5 ([Shard] 7.0)
 Forms a suicide pact dealing <b><font color='#B8D3BE'>Magic Damage to both</font></b> Anko and the target enemy. <br><br> Damage dealt to both Heroes is <b><font color='#2CEA5E'>based on their missing Health</font></b>.
 |Behaviour|Damage Type|Target Team|Target Unit|
 |---|---|---|---|
+
 |Unit Target|Magical|Enemies|Heroes/Basic|
 MISSING HP AS DAMAGE: 50/60/70%
 SELF MISSING HP AS DAMAGE: 50/60/70%%
@@ -53,6 +54,7 @@ Grants Anko passive <b><font color='#AA43D8'>Spell Lifesteal.</font></b> <b><fon
 |Behaviour|
 |---|
 |Passive|
+
 SPELL LIFESTEAL: 10.0%
 DAMAGE THRESHOLD: 650.0
 ## Talents
