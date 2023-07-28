@@ -15,8 +15,11 @@ Vision: 1800 | 800
 <b><font color='#00B730'>Sends out a snake</font></b> grabbing the first enemy it encounters, dealing <b><font color='#00B730'>Pure Damage and pulling</font></b> them to Anko. <br><br> <b><font color='#00B730'>Deals Triple Damage</font></b> to creeps.
 
 |Behaviour|Damage Type|
+
 |---|---|
+
 |Point Target|Pure|
+
 RANGE: 1300
 DAMAGE: 150/220/290/360
 CREEP DAMAGE:300%
