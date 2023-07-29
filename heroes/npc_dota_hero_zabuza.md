@@ -32,7 +32,7 @@ Sends a Water Dragon to the target area dealing <b><font color='#55AFFD'>Magic D
 - INVISIBILITY FADE TIME: 1.0/0.8/0.6/0.4
 - DURATION: 9
 ### <b><font color='#5386AF'> Executioner Blade </font></b>
-<b><font color='#FFFFFF'>ACTIVE </font></b>- Causes all of Zabuza's attacks to be <b><font color='#5386AF'>Critical Strikes for a short duration.</font></b> <br><br> <b><font color='#FFFFFF'>PASSIVE</font></b> - Zabuza’s attacks will always be <b>Critical Strikes</b> to enemies <b><font color='#5386AF'>below a health threshold.</font></b>
+<b><font color='#FFFFFF'>ACTIVE </font></b>- Causes all of Zabuza's attacks to be <b><font color='#5386AF'>Critical Strikes for a short duration.</font></b> <br><br> <b><font color='#FFFFFF'>PASSIVE</font></b> - Zabuzaâ€™s attacks will always be <b>Critical Strikes</b> to enemies <b><font color='#5386AF'>below a health threshold.</font></b>
 |Behaviour|
 |---|
 |No Target|

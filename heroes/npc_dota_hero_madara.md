@@ -76,7 +76,7 @@ Madara gains temporary Stacks <b><font color='#F7F7F7'>(+0.25s)</font></b> whene
 ## Talents
 | | Talents | |
 | :---: | :---: | :---: |
-| +-25% Deep Forest Tree Burn Slow | 25 | +70 Susano’o Damage |
+| +-25% Deep Forest Tree Burn Slow | 25 | +70 Susanoâ€™o Damage |
 | +160 Damage Fire Annihilation Explosion | 20 | +0.5 Hashirama Cells Health Regen per Stack |
 | +12% Spell Amplification | 15 | +2.0 Forest Emergence Duration |
-| +70 Susano’o Radius | 10 | +12 Intelligence |
+| +70 Susanoâ€™o Radius | 10 | +12 Intelligence |

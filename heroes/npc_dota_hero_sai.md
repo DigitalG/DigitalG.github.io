@@ -50,7 +50,7 @@ Grants the Sai's <b><font color='#ffffff'>Super God Drawings</font></b> increase
 - BONUS ATTACK SPEED:45/60/75
 - DURATION:3/5/7
 ### <b><font color='#737272'>Ink Swell</font></b>
-Sai surrounds himself with ink, <b><font color='#737272'>becoming Untargetable</font></b> for a short duration. <br><br> During this time, all of Sai’s <b><font color='#737272'>Basic Attacks will trigger an Ink Rat</font></b> from <b><font color='#bfbfbf'>Rat Reconnaissance</font></b> to attack the enemy.
+Sai surrounds himself with ink, <b><font color='#737272'>becoming Untargetable</font></b> for a short duration. <br><br> During this time, all of Saiâ€™s <b><font color='#737272'>Basic Attacks will trigger an Ink Rat</font></b> from <b><font color='#bfbfbf'>Rat Reconnaissance</font></b> to attack the enemy.
 |Behaviour|Damage Type|
 |---|---|
 |No Target|Magical|
@@ -69,7 +69,7 @@ Sai surrounds himself with ink, <b><font color='#737272'>becoming Untargetable</
 - DRAWING MOVESPEED:400/420/440
 - DURATION:30
 ### <b><font color='#737272'>Ink Control</font></b>
-Units affected by Sai’s spells take <b><font color='#737272'>increased damage</font></b> <b><font color='#F7F7F7'>( +0.5% )</font></b> from all sources.
+Units affected by Saiâ€™s spells take <b><font color='#737272'>increased damage</font></b> <b><font color='#F7F7F7'>( +0.5% )</font></b> from all sources.
 |Behaviour|
 |---|
 |Passive|

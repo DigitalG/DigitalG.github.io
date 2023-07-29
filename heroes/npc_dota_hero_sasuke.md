@@ -59,7 +59,7 @@ Activates Sasuke's Curse Mark granting him new properties to his Basic Abilities
 - %SPELL LIFESTEAL (Creeps):3
 - DURATION:25
 ### <b><font color='#00D4FF'>Kirin</font></b>
-<b><font color='#A5E3FF'>Marks the target unit</font></b> with Kirin, granting <b>True Sight</b> of the target unit for a short duration of time. <br><br> After the duration expires, the target is struck with a <b><font color='#00D4FF'>massive bolt of lightning dealing Magic Damage</font></b>. <br><br> Additional <b>Magic Damage</b> is dealt to the target <b><font color='#4DADFF'>based on health lost from Sasuke</font></b> during the effect’s duration.
+<b><font color='#A5E3FF'>Marks the target unit</font></b> with Kirin, granting <b>True Sight</b> of the target unit for a short duration of time. <br><br> After the duration expires, the target is struck with a <b><font color='#00D4FF'>massive bolt of lightning dealing Magic Damage</font></b>. <br><br> Additional <b>Magic Damage</b> is dealt to the target <b><font color='#4DADFF'>based on health lost from Sasuke</font></b> during the effectâ€™s duration.
 |Behaviour|Damage Type|Target Team|Target Unit|
 |---|---|---|---|
 |Unit Target|Magical|Enemies|Heroes/Basic|
@@ -67,7 +67,7 @@ Activates Sasuke's Curse Mark granting him new properties to his Basic Abilities
 - DURATION: 6
 - %LOST HEALTH BONUS DAMAGE: 30/45/60
 ### <b><font color='#dbf2ff'>Chidori Light Sword</font></b>
-<b><font color='#dbf2ff'>After casting an ability</font></b>, Sasuke’s next <b>Basic Attack</b> inflicts <b><font color='#dbf2ff'>additional Magic Damage.</font></b> <b><font color='#F7F7F7'>(+4)</font></b> and briefly reduces <b>Attack Speed</b> and <b>Movement Speed</b>.
+<b><font color='#dbf2ff'>After casting an ability</font></b>, Sasukeâ€™s next <b>Basic Attack</b> inflicts <b><font color='#dbf2ff'>additional Magic Damage.</font></b> <b><font color='#F7F7F7'>(+4)</font></b> and briefly reduces <b>Attack Speed</b> and <b>Movement Speed</b>.
 
 Nearby Enemies are also affected.
 |Behaviour|Damage Type|

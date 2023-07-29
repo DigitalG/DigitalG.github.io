@@ -74,7 +74,7 @@ Itachi uses his right eye to <b><font color='#787878'>consume a target area in b
 - %MANA DRAIN:10
 - DURATION:3
 ### <b><font color='#A03830'>ANBU Training</font></b>
-Itachi’s attack’s deal <b><font color='#A03830'>bonus Magic Damage</font></b> <b><font color='#F7F7F7'>(+0.03) </font></b> based on his <b>Intelligence</b> if <b><font color='#A03830'>striking enemies from behind.</font></b>
+Itachiâ€™s attackâ€™s deal <b><font color='#A03830'>bonus Magic Damage</font></b> <b><font color='#F7F7F7'>(+0.03) </font></b> based on his <b>Intelligence</b> if <b><font color='#A03830'>striking enemies from behind.</font></b>
 |Behaviour|Damage Type|
 |---|---|
 |Passive|Magical|
