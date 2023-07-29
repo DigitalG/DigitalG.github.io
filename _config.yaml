@@ -1,4 +1,5 @@
 markdown: GFM
+remote_theme: moonwalk
 plugins:
   - jekyll-relative-links
 relative_links:
