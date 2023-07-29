@@ -1,5 +1,4 @@
 markdown: GFM
-remote_theme: moonwalk
 plugins:
   - jekyll-relative-links
 relative_links:
@@ -7,3 +6,8 @@ relative_links:
   collections: true
 include:
   - README.md
+
+remote_theme: abhinavs/moonwalk
+
+theme_config:
+  appearance: "dark" # can be "light", "dark" or "auto"
