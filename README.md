@@ -1,3 +1,3 @@
 # DigitalG.github.io
 
-[NWR Knoeledge Base](/herolist.html)
+[NWR Knowledge Base](/herolist.html)
